@@ -114,7 +114,8 @@ dependencies {
 
     //Times Formater processing dependancy
     implementation 'org.ocpsoft.prettytime:prettytime:4.0.4.Final'
+
     // dependancy for Chart and graph library
-    implementation 'com.github.PhilJay:MPAndroidChart:v2.2.4'
+    implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
 }
